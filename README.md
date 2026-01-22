@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+### Cytometry in R - Starter Questions
+
+- Location: Stockholm, Sweden
+
+- Favourite fluorophore: BUV395
+  
+- Previous coding experience: R, Seurat 
+
+- What I hope to get from this course: Unmixing spectral flow data in R and downstream clustering, to analyse it like 10X data
+
 <!--
 **Miriam-Franklin/Miriam-Franklin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
